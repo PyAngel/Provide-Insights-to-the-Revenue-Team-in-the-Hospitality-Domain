@@ -10,9 +10,13 @@ A pesar de su sólida trayectoria, Atliq Grands ha experimentado una disminució
 
 ***Enfoque del Proyecto:***
 
-- Datos Utilizados: Para abordar este proyecto, se ha recopilado información exhaustiva de la base de datos, organizándola en cinco tablas fundamentales: "dim date" (dimensiones temporales), "dim hotels" (información sobre los hoteles), "dim rooms" (detalle de las habitaciones), "fact bookings" (registros de reservas) y "fact aggregated booking" (agregación de datos de reservas). Este conjunto de datos abarca el período de abril a julio de 2022, y abarca más de 130,000 reservas documentadas y alrededor de 54,000 reseñas de los clientes.
+Datos Utilizados:
 
-- Tecnologías Utilizadas: Para el análisis de los datos, se ha empleado la herramienta Power BI debido a su capacidad para procesar la información mediante Power Query y presentar los hallazgos de manera efectiva a través de paneles interactivos. Esto permite una comunicación directa de los resultados en las reuniones gerenciales pertinentes.
+Para abordar este proyecto, se ha recopilado información exhaustiva de la base de datos, organizándola en cinco tablas fundamentales: "dim date", "dim hotels", "dim rooms", "fact bookings" y "fact aggregated booking". Este conjunto de datos abarca el período de abril a julio de 2022, y abarca más de 130,000 reservas documentadas y alrededor de 54,000 reseñas de los clientes.
+
+Tecnologías Utilizadas: 
+
+Para el análisis de los datos, se ha empleado la herramienta Power BI debido a su capacidad para procesar la información mediante Power Query y presentar los hallazgos de manera efectiva a través de paneles interactivos. Esto permite una comunicación directa de los resultados en las reuniones gerenciales pertinentes.
 
 ***Hallazgos Significativos:***
 
@@ -30,9 +34,15 @@ A pesar de su sólida trayectoria, Atliq Grands ha experimentado una disminució
 
 ***Estrategias para Incrementar la Ocupación:***
 
--Descuentos por Reservas Anticipadas: Ofrecer descuentos a los huéspedes que reserven con antelación para futuras temporadas.
+- Descuentos por Reservas Anticipadas: Ofrecer descuentos a los huéspedes que reserven con antelación para futuras temporadas.
 
--Descuentos Especiales para Reservas Inmediatas: Proporcionar ofertas exclusivas a aquellos que reserven en un plazo de 30 días.
+- Descuentos Especiales para Reservas Inmediatas: Proporcionar ofertas exclusivas a aquellos que reserven en un plazo de 30 días.
 
--Servicio Premium para Clientes Frecuentes: Implementar un servicio premium dirigido a clientes que frecuentemente eligen nuestros hoteles.
-Este análisis de datos proporciona un sólido punto de pa
+- Servicio Premium para Clientes Frecuentes: Implementar un servicio premium dirigido a clientes que frecuentemente eligen nuestros hoteles.
+
+# DASHBOARD
+![DB1](https://github.com/PyAngel/Provide-Insights-to-the-Revenue-Team-in-the-Hospitality-Domain/assets/127798134/4f20d9eb-cb09-423e-8087-794ed4c5279b)
+![DB2](https://github.com/PyAngel/Provide-Insights-to-the-Revenue-Team-in-the-Hospitality-Domain/assets/127798134/5096e1a6-4cbc-4939-9cc4-4597dd41ea1c)
+
+
+
