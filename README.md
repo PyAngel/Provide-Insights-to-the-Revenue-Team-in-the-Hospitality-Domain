@@ -21,7 +21,7 @@ Despite its strong track record, Atliq Grands has experienced a decline in marke
 ![DB2](https://github.com/PyAngel/Provide-Insights-to-the-Revenue-Team-in-the-Hospitality-Domain/assets/127798134/5096e1a6-4cbc-4939-9cc4-4597dd41ea1c)
 
 
-## Significant Findings:
+## Insights:
 
 - Altaiq Line Cancellations: A substantial increase in cancellations is observed in the last two weeks of July, particularly in the Altaiq By and Altaiq Grands lines. This may be attributed to potential logistical issues related to room availability, as cancellations increased by over 100% during that period.
 
