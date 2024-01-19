@@ -18,6 +18,10 @@ Para abordar este proyecto, se ha recopilado información exhaustiva de la base 
 
 Para el análisis de los datos, se ha empleado la herramienta Power BI debido a su capacidad para procesar la información mediante Power Query y presentar los hallazgos de manera efectiva a través de paneles interactivos. Esto permite una comunicación directa de los resultados en las reuniones gerenciales pertinentes.
 
+## TABLERO (CAPTURAS)
+![DB1](https://github.com/PyAngel/Provide-Insights-to-the-Revenue-Team-in-the-Hospitality-Domain/assets/127798134/4f20d9eb-cb09-423e-8087-794ed4c5279b)
+![DB2](https://github.com/PyAngel/Provide-Insights-to-the-Revenue-Team-in-the-Hospitality-Domain/assets/127798134/5096e1a6-4cbc-4939-9cc4-4597dd41ea1c)
+
 ## Hallazgos Significativos:
 
 - Cancelaciones: Se observa un incremento sustancial en las cancelaciones en las últimas dos semanas de julio, principalmente en las líneas Altaiq By y Altaiq Grands. Esto podría ser atribuido a posibles problemas logísticos en relación con la disponibilidad de habitaciones, ya que las cancelaciones aumentaron en más del 100% durante ese período.
