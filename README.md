@@ -15,8 +15,8 @@ Despite its strong track record, Atliq Grands has experienced a decline in marke
 
 - Technologies Used: For data analysis, the Power BI tool was employed due to its ability to process information using Power Query and effectively present findings through interactive dashboards. This enables direct communication of results in relevant managerial meetings.
 
-
-## DASHBOARD
+### [Click Here](https://github.com/PyAngel/Provide-Insights-to-the-Revenue-Team-in-the-Hospitality-Domain/blob/main/Ad%20hoc%20hospitality.pbix) to access BI Dashboard
+## DASHBOARD (SCREENSHOTS)
 ![DB1](https://github.com/PyAngel/Provide-Insights-to-the-Revenue-Team-in-the-Hospitality-Domain/assets/127798134/4f20d9eb-cb09-423e-8087-794ed4c5279b)
 ![DB2](https://github.com/PyAngel/Provide-Insights-to-the-Revenue-Team-in-the-Hospitality-Domain/assets/127798134/5096e1a6-4cbc-4939-9cc4-4597dd41ea1c)
 
